@@ -1,3 +1,5 @@
+include "freetype"
+
 project "msdfgen"
 	kind "StaticLib"
 	language "C++"
